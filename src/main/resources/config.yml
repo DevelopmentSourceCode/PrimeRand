@@ -1,7 +1,11 @@
 Settings:
-  Prefix: "&f&lPrime&6Rand &7»"
+  Prefix: "&f&lPrime&6Rand &7» "
   NoPerm: "&cDu hast &4&lnicht &cdie Benötigten Rechte!"
 Messages:
   RandChange: "&aDu hast den Rand zu &6&l%block% &ageändert."
   NotOwnPlot: "&cDu bist &4&lnicht &cder Besitzer von diesem Plot!"
   NotAPlot: "&cDu bist in &4&lkeinem &cPlot!"
+Item:
+  #The Lore must be Colored by §
+  Available: "§aDer Rand ist für dich §6§lverfügbar§a."
+  NotAvailable: "§cDer Rand ist für dich §4§lnicht §cverfügbar!"
